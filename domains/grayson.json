@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "wenop-app",
+        "email": "me@wenop.app"
+    },
+
+    "record": {
+        "CNAME": "wenop.app"
+    },
+
+    "proxied": false
+}
